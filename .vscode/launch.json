@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - geradorVetor",
+            "request": "launch",
+            "mainClass": "app.geradorVetor",
+            "projectName": "aps_pota"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "app.App",

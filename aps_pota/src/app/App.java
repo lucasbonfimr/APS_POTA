@@ -1,9 +1,8 @@
 package app;
 
-import java.util.ArrayList;
-
     public class app {    
-        public static void name() {
+
+        public static void main(String[] args) {
             
         }
     }
